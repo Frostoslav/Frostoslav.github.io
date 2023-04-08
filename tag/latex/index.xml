@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaTeX | Academic</title>
+    <link>https://example.com/tag/latex/</link>
+      <atom:link href="https://example.com/tag/latex/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaTeX</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>LaTeX</title>
+      <link>https://example.com/tag/latex/</link>
+    </image>
+    
+    <item>
+      <title>LaTeX</title>
+      <link>https://example.com/post/week-post/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/week-post/</guid>
+      <description>&lt;h2 id=&#34;редактор-latex&#34;&gt;Редактор LaTeX&lt;/h2&gt;
+&lt;p&gt;В LaTeX-редакторе создать исходный файл (LaTeX-файл) – файл с расширением .tex (например, hi.tex), который содержит текст документа и специальные команды, указывающие LaTeX, как именно нужно сверстать этот текст.&lt;/p&gt;
+&lt;p&gt;Скомпилировать исходный файл (hi.tex) в файл документа, например в формате PDF (hi.pdf) с помощью PDFLaTeX или XeLaTeX.&lt;/p&gt;
+&lt;p&gt;Посмотреть результирующий файл. Если результат устраивает, распечатать его. Иначе внести изменения в исходный файл, снова скомпилировать его и т.д.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
